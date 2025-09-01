@@ -1,4 +1,4 @@
-# Desafio Cientista de Dados - Análise de Filmes (Indicium)
+# Desafio de Ciência de Dados - Análise de Filmes (Indicium)
 
 Esse repositório contém a resolução de um desafio técnico na área de Ciência de Dados, focada na análise de um dataset de filmes do IMDB e na construção de um modelo preditivo para orientar as decisões de negócio de um estúdio de Hollywood.
 
